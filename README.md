@@ -1,1 +1,1 @@
-一个简单的SSH项目
+一个简单的Spring+SpringMVC+Hibernate项目
